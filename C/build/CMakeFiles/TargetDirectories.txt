@@ -1,0 +1,7 @@
+/home/aitouaka/tp-threads/C/build/CMakeFiles/ensivideo.dir
+/home/aitouaka/tp-threads/C/build/CMakeFiles/check.dir
+/home/aitouaka/tp-threads/C/build/CMakeFiles/package.dir
+/home/aitouaka/tp-threads/C/build/CMakeFiles/package_source.dir
+/home/aitouaka/tp-threads/C/build/CMakeFiles/test.dir
+/home/aitouaka/tp-threads/C/build/CMakeFiles/edit_cache.dir
+/home/aitouaka/tp-threads/C/build/CMakeFiles/rebuild_cache.dir

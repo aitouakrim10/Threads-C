@@ -1,0 +1,7 @@
+Les threads
+• Ils partagent l’espace mémoire (virtuel) de leur processus
+• Ils ont chacun sa propre une pile et un ensemble d’état des
+registres
+• Ils peuvent se communiquer des informations par
+l’intermédiaire de la mémoire (virtuelle) commune (en lisant
+et modifiant des variables communes)

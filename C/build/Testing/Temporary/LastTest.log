@@ -1,0 +1,20 @@
+Start testing: Dec 06 23:56 CET
+----------------------------------------------------------
+1/1 Testing: CommonPthreadError
+1/1 Test: CommonPthreadError
+Command: "/usr/bin/perl" "/home/aitouaka/tp-threads/C/tests/pthcocci.pl"
+Directory: /home/aitouaka/tp-threads/C/build
+"CommonPthreadError" start time: Dec 06 23:56 CET
+Output:
+----------------------------------------------------------
+sh: 1: spatch: not found
+Can't exec "spatch": Aucun fichier ou dossier de ce type at /home/aitouaka/tp-threads/C/tests/pthcocci.pl line 17.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"CommonPthreadError" end time: Dec 06 23:56 CET
+"CommonPthreadError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 06 23:56 CET

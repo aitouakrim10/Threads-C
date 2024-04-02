@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stream_common.h": "c",
+        "ensitheora.h": "c"
+    }
+}
